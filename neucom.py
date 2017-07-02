@@ -256,8 +256,8 @@ def memwrite(mem_tm1, ww, erase, write_vec):
     return mem_tm1 * forget + add_content
 
 
-class NeuralCPU(object):
-    """Neural CPU class"""
+class NeuralComputer(object):
+    """Neural Computer Module"""
 
     def __init__(self, input_size, output_size, mem_size, word_size, n_reads):
         self.params = collections.OrderedDict.fromkeys([
