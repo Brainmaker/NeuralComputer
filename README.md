@@ -5,8 +5,8 @@ This package provides a tensorflow implementation of DeepMind's Differentiable N
 
 
 ## Requirements
--Python >= 3.5
--Tensorflow >= 1.10
+- Python >= 3.5
+- Tensorflow >= 1.10
 
 
 ## Author
