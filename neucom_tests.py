@@ -194,7 +194,7 @@ class NCPUModuleBuildTest(tf.test.TestCase):
 class NeuralCPUBuildTest(tf.test.TestCase):
 
     def test_step(self):
-        model = neucom.NeuralCPU(INPUT_SIZE, OUTPUT_SIZE, MEM_SIZE, WORD_SIZE,
+        model = neucom.NeuralComputer(INPUT_SIZE, OUTPUT_SIZE, MEM_SIZE, WORD_SIZE,
                                  N_READS)
         names = [
             'x', 'h_tm1', 'c_tm1', 'r_tm1_ls',
