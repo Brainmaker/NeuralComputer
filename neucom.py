@@ -21,7 +21,7 @@ from tensorflow.python.ops.nn_ops import top_k, softplus
 
 __all__ = ['tensorslice', 'intfcparse', 'contentaddress', 'allocmem',
            'tpmemrecall', 'readweight', 'writeweight', 'memread', 'memwrite',
-           'NeuralCPU']
+           'NeuralComputer']
 
 DTYPE = 'float16'
 
