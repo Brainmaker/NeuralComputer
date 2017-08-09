@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Author: Wan Xiaolin <wanxl13@lzu.edu.cn>
+# Author: Wan Xiaolin <wanxiaolin@mail.bnu.edu.cn>
 
 """Neural Computer Module
 
