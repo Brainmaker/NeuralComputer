@@ -12,7 +12,7 @@ This package provides a tensorflow implementation of DeepMind's Differentiable N
 ## Author
 Wan Xiaolin
 
-[wanxl13@lzu.edu.cn](wanxl13@lzu.edu.cn)
+[wanxiaolin@mail.bnu.edu.cn](wanxiaolin@mail.bnu.edu.cn)
 
 ## License
 MIT
